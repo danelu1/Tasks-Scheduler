@@ -1,0 +1,4 @@
+# start,duration,type,prio,preempt
+6,1,4,0,100,false
+7,7,1,0,100,false
+8,9,3,0,100,false
